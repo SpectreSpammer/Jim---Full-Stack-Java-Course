@@ -45,7 +45,7 @@ public class MainSwitchStatement {
                 System.out.println("Accounting Department");
                 break;
             case "PR":
-                System.out.println("PR Department");
+                System.out.println("Public Relations Department");
                 break;
             default:
                 System.out.println("No department exist");
