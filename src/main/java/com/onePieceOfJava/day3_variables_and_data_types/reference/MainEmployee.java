@@ -8,6 +8,7 @@ public class MainEmployee {
         Employee designer = new Designer();
         Employee manager = new Manager();
 
+
         //array of employees
         Employee[] employees =  { developer, designer, manager };
 
