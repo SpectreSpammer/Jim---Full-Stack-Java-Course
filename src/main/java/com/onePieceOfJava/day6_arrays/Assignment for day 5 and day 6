@@ -1,0 +1,16 @@
+Create a java class named EmployeeManagementSystem
+-- Inside the class, create variables to store information for three employees. For each employee, you should have:
+Convert it to arrays
+   Name (String)
+   Age (int)
+   Employee ID (long)
+   Department (String)
+   Salary (double)
+   IsReadyForRetire (boolean)
+
+   Instructions
+   1. (if-else statements): Checks retirement eligibility based on the employee's age.
+   2. (switch statements): Provides information about different departments.
+   3. (for loop): Projects an employee's salary over a specified number of years.
+   4.  (while loop): Validates the last 4 digits of an employee's ID.
+   5.  (do-while loop): Simulates a payroll processing system.
