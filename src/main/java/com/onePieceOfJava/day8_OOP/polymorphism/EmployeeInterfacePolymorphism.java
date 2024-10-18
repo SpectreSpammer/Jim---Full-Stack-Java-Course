@@ -7,6 +7,7 @@ public interface EmployeeInterfacePolymorphism {
     double getBaseSalary();
     double calculateSalary();
 
+    
 
     default void displayInfo(){
         System.out.println("Employee Id: " + getId());
